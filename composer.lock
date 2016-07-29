@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "48dcd6a2e26fbfca3b87e70814bde34f",
+    "content-hash": "b0072a2ce0928e94177df78462c438ba",
+    "packages": [
+        {
+            "name": "myapo100l/test_php",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/myapo100l/test_php.git",
+                "reference": "d6ae7f2c075fe992931e6db24b99fc43cf761d1d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/myapo100l/test_php/zipball/d6ae7f2c075fe992931e6db24b99fc43cf761d1d",
+                "reference": "d6ae7f2c075fe992931e6db24b99fc43cf761d1d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Apo100l\\Quest\\": "src/classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Apostol Alexandr",
+                    "email": "dev@apo100l.ru"
+                }
+            ],
+            "description": "quest for php dev",
+            "time": "2016-05-12 09:24:30"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
